@@ -4,3 +4,8 @@ https://dev.to/folakeoyeyemi/jwt-for-authentication-in-nodejs-and-how-oauth2-add
 # vertly
 # vetly
 # vertly
+
+
+
+#### API DOCUMENTTION
+https://documenter.getpostman.com/view/25478872/2s93RL2GnC
